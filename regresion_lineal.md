@@ -72,3 +72,5 @@ Relaciones no lineales.
 Datos con outliers significativos o multicolinealidad.
 Problemas de clasificación o interacciones complejas.
 Es una excelente herramienta en los contextos correctos, pero es importante validar sus supuestos antes de utilizarla.
+
+
